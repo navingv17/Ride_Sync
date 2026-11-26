@@ -14,7 +14,7 @@ function App() {
 
   return (
   <div>
-  <div className='text-red-500 text-1xl font-bold '>VANAKAM NANBARGALE!</div>
+  <div className='text-red-500 text-2xl font-bold '>VANAKAM NANBARGALE!</div>
   <BrowserRouter>
   <Routes>
     <Route path="login" element={<Login/>}/>
