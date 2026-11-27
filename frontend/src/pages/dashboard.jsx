@@ -10,7 +10,7 @@ function Dashboard() {
     return ( 
         <div>
             <button className="bg-blue-600 text-white font-medium px-4 py-2 rounded-lg shadow-sm hover:bg-blue-700 active:bg-blue-800  transition-colors cursor-pointer" 
-            onClick={display}>Display</button>
+            onClick={display}>Displayy</button>
         </div>
      );
 }
