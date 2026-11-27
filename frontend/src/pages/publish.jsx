@@ -1,6 +1,6 @@
 function Publish() {
     return ( 
-        <div>Publish</div>
+        <div className="text-2xl">Publish</div>
      );
 }
 
