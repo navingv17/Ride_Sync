@@ -6,7 +6,7 @@ function Home() {
           How RideSync Works
         </h2>
 
-        <div className="mt-8 grid gap-6 md:grid-cols-3">
+        <div className="mt-7 grid gap-6 md:grid-cols-3">
 
           <div className="rounded-xl border border-gray-200 bg-white p-6">
             <h3 className="text-xl font-semibold text-green-600">
